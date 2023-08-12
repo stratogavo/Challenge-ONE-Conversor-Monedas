@@ -1,5 +1,9 @@
 # <div align="center"> Challenge ONE: Conversor de Monedas y Unidades 💱📏 </div><div align="center">Alura LATAM + Oracle ONE</div>
 
+<div align="center">
+<img src="https://github.com/stratogavo/readme-media/blob/main/iConvertProgramImg.jpg" align="center" style="width: 50%; height: auto" />
+</div>
+
 ## 🗒 Descripción del proyecto
 
 ### El desafío consite en crear una aplicación gráfica en Java que permita convertir entre diferentes pares de divisas, por ejemplo, de pesos mexicanos a dólares estadounidenses, o también inversamente de dólares estadounideses a pesos mexicanos.
