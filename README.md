@@ -56,5 +56,9 @@
 <a href="https://github.com/stratogavo/Challenge-ONE-Conversor-Monedas/tree/main/dist/" target="_blank">
   iConvert - Conversor de divisas y unidades
 </a>
+
+<div align="center">
+<img src="https://github.com/stratogavo/readme-media/blob/main/InsigniaAluraConversorMonedas.png" align="center" style="width: 50%; height: auto" />
+</div>
   
 
