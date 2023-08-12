@@ -455,8 +455,8 @@ public class UnitConverterGUI extends JFrame {
 			public void mouseClicked(MouseEvent e) {
 				int currentYear = Year.now().getValue();
 				String msgDialogMsg, msgDialogTitle = "About iConvert";
-				msgDialogMsg = "iConvert Version 1.0\n\n";
-				msgDialogMsg += "Copyleft " + currentYear + " Program by Gerardo Velasco-Ochoa\n\n";
+				msgDialogMsg = "iConvert Version 0.1.0\n\n";
+				msgDialogMsg += "Copyleft " + currentYear + " Program by Gerardo Velasco\n\n";
 				msgDialogMsg += "You are granted a free license to use iConvert for\n ";
 				msgDialogMsg += "personal and internal business purposes.\n\n";
 				msgDialogMsg += "https://github.com/stratogavo\n\n";
